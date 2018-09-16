@@ -1,0 +1,166 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+
+@font-face{
+	font-family: 'Maplestory';
+	src: url(Maplestory.ttf) format('truetype');
+}
+
+.container{
+	height: 700px;
+}
+
+nav{
+	width: 100%;
+}
+
+h1{
+	width: 90%;
+	font-family: Maplestory;
+	font-size: 35px;
+	color: yellow;
+	margin-left: 70px;
+	text-shadow: 2px 2px 2px black;
+	margin-top: 15px;
+}
+
+p, h5, a{
+	font-family: Maplestory;
+}
+
+button{
+	float: right;
+	margin-right: 10px;
+	font-size: 15px;
+	text-shadow: 2px 2px 2px black;
+	font-family: Maplestory;
+}
+
+section{
+	text-align: center;
+	width: 90%;
+	margin: auto;
+}
+
+body{
+	margin: 0px;
+}
+
+header{
+	background-image: url("https://i.ytimg.com/vi/MmKlaGpmYig/maxresdefault.jpg");
+}
+
+.top_title{
+	width: 50%;
+}
+.top_button{
+	position: relative;
+	bottom: 45px;
+	width: 95%;
+	height: 100%
+}
+
+.top{
+	margin: auto;
+	width: 98%;
+	height: 70px;
+}
+
+.container10{
+	width: 960px;
+	text-align: center;
+	margin: auto;
+}
+
+.asdf{
+	width: 960px;
+}
+
+nav{
+	text-align: center;
+}
+
+.mid{
+	display: inline-block;
+	width: 80%;
+	padding-top: 40px;
+}
+
+.bottom{
+	padding-top: 20px;
+	text-align: center;
+	background-color: black;
+}
+
+#bottom_text{
+	font-family: Maplestory;
+	color: white;
+	padding-bottom: 20px;
+}
+
+article{
+	width: 310px;
+	height: auto;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.img_exp{
+	font-size: 15px;
+}
+
+#lalaland{
+	width: auto;
+	height: 100%;
+}
+
+#lalaland_title{
+	width: 100%;
+	font-family: Maplestory;
+	font-size: 30px;
+	color: white;
+	padding-top: 100px;
+	text-shadow: 2px 2px 2px white;
+}
+
+#lalaland_content{
+	margin: auto;
+	font-size: 18px;
+	color: white;
+	line-height: 200%;
+	font-family: Maplestory;
+}
+
+.card-img-top{
+	height: 200px;
+	width: auto;
+}
+
+.navbar-brand{
+	font-size: 35px;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 179, 0, 0.9);
+}
+
+.bg-light {
+    background-color: #ffffff!important;
+    margin-bottom: 20px;
+}
+
+.col-sm-4{
+	width: 400px;
+	padding: 0px;
+}
+
+.row{
+	width: 100%;
+	margin: auto;
+}
+
+.card{
+	margin: auto;
+}
