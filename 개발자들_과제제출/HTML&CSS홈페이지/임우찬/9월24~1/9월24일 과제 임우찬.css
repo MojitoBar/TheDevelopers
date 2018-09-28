@@ -1,0 +1,75 @@
+﻿header {
+    background-color: #f00;
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial;
+    margin: 0%;
+    box-shadow: 0px 0px 3px 3px black;
+    margin: -15px;
+    padding: 7px;
+}
+
+.div_section {
+    float: left;
+    height: 400px;
+    width: 200px;
+    border: thick;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+    box-shadow: 3px 3px 2px 2px black;
+    font-size: 30px;
+    text-align: center;
+    color: #f00;
+    font-family: Elephant;
+}
+
+
+.div_image {
+    height: 210px;
+    width: 200px;
+    display:block;
+}
+
+.div_image2 {
+    height: 100px;
+    width: 200px;
+    display:block;
+}
+
+section {
+}
+
+body {
+    background-image: url(http://stadiumdb.com/pic-projects/anfield/anfield12.jpg);
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.article_div {
+    background-color: deepskyblue;
+    margin: auto;
+    text-align: center;
+    font-family: Elephant;
+    box-shadow: 3px 3px 2px 2px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+.div_background{
+    height:100px;
+     background-color:white;
+
+}
+.navigation{
+    background-color:green;
+   margin-bottom:20px;
+   margin:-15px;
+   padding:15px;
+   box-shadow:0px 0px 3px 3px black;
+}
+.textbox{
+    float:right;
+}
